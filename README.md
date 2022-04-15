@@ -1,6 +1,6 @@
 # Modeling Indirect Illumination for Inverse Rendering
 
-### [Project Page](https://zju3dv.github.io/invrender) | [Paper]() | [Data](https://drive.google.com/file/d/1wWWu7EaOxtVq8QNalgs6kDqsiAm7xsRh/view?usp=sharing)
+### [Project Page](https://zju3dv.github.io/invrender) | [Paper](https://arxiv.org/pdf/2204.06837.pdf) | [Data](https://drive.google.com/file/d/1wWWu7EaOxtVq8QNalgs6kDqsiAm7xsRh/view?usp=sharing)
 
 
 
