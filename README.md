@@ -69,7 +69,7 @@ Taking the scene `hotdog` as an example, the training process is as follows.
 ## Citation
 
 ```
-@inproceedings{zhang2021invrender,
+@inproceedings{zhang2022invrender,
   title={Modeling Indirect Illumination for Inverse Rendering},
   author={Zhang, Yuanqing and Sun, Jiaming and He, Xingyi and Fu, Huan and Jia, Rongfei and Zhou, Xiaowei},
   booktitle={CVPR},
